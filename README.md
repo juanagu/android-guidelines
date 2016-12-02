@@ -1,6 +1,6 @@
 # Android Guidelines
 
-List of guidelines that we use at [ribot](http://ribot.co.uk) when developing for the __Android__ platform. 
+List of guidelines that we use at [Clarika](http://clarika.co) when developing for the __Android__ platform. 
 
 * [Project and code style guidelines](project_and_code_guidelines.md)
 * [Architecture Guidelines](architecture_guidelines/android_architecture.md)
@@ -8,7 +8,7 @@ List of guidelines that we use at [ribot](http://ribot.co.uk) when developing fo
 ### License
 
 ```
-Copyright 2015 Ribot Ltd.
+Copyright 2016 Clarika Ltd.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
