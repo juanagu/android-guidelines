@@ -2,7 +2,7 @@
 
 ## 1.1 Project structure
 
-New projects should follow the Android Gradle project structure that is defined on the [Android Gradle plugin user guide](http://tools.android.com/tech-docs/new-build-system/user-guide#TOC-Project-Structure). The [ribot Boilerplate](https://github.com/ribot/android-boilerplate) project is a good reference to start from.
+New projects should follow the Android Gradle project structure that is defined on the [Android Gradle plugin user guide](http://tools.android.com/tech-docs/new-build-system/user-guide#TOC-Project-Structure). The [clarika Boilerplate](https://github.com/juanagu/android-boilerplate) project is a good reference to start from.
 
 ## 1.2 File naming
 
@@ -643,7 +643,7 @@ onView(withId(R.id.view))
 # License
 
 ```
-Copyright 2015 Ribot Ltd.
+Copyright 2016 Clarika Ltd.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
